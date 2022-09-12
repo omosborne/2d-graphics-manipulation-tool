@@ -1,0 +1,10 @@
+C:\Users\olios\source\repos\GrafPack\GrafPack\bin\Debug\GrafPack.exe.config
+C:\Users\olios\source\repos\GrafPack\GrafPack\bin\Debug\GrafPack.exe
+C:\Users\olios\source\repos\GrafPack\GrafPack\bin\Debug\GrafPack.pdb
+C:\Users\olios\source\repos\GrafPack\GrafPack\obj\Debug\GrafPack.csproj.AssemblyReference.cache
+C:\Users\olios\source\repos\GrafPack\GrafPack\obj\Debug\GrafPack.Properties.Resources.resources
+C:\Users\olios\source\repos\GrafPack\GrafPack\obj\Debug\GrafPack.csproj.GenerateResource.cache
+C:\Users\olios\source\repos\GrafPack\GrafPack\obj\Debug\GrafPack.csproj.CoreCompileInputs.cache
+C:\Users\olios\source\repos\GrafPack\GrafPack\obj\Debug\GrafPack.exe
+C:\Users\olios\source\repos\GrafPack\GrafPack\obj\Debug\GrafPack.pdb
+C:\Users\olios\source\repos\GrafPack\GrafPack\obj\Debug\GrafPack.GrafPack.resources

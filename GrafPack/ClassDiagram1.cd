@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GrafPack.GrafPack">
+    <Position X="11.25" Y="0.5" Width="2.75" />
+    <Members>
+      <Field Name="buttonCreateCircle" Hidden="true" />
+      <Field Name="buttonCreateSquare" Hidden="true" />
+      <Field Name="buttonCreateTriangle" Hidden="true" />
+      <Field Name="buttonDelete" Hidden="true" />
+      <Field Name="buttonFlipHorz" Hidden="true" />
+      <Field Name="buttonFlipVert" Hidden="true" />
+      <Field Name="buttonMouseScale" Hidden="true" />
+      <Field Name="buttonMove" Hidden="true" />
+      <Field Name="buttonRotate" Hidden="true" />
+      <Field Name="buttonScale" Hidden="true" />
+      <Field Name="buttonSelect" Hidden="true" />
+      <Field Name="buttonTranslate" Hidden="true" />
+      <Field Name="canvas" Hidden="true" />
+      <Field Name="colorDialogCanvas" Hidden="true" />
+      <Field Name="colorDialogPen" Hidden="true" />
+      <Field Name="comboShapes" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="divider" Hidden="true" />
+      <Field Name="DRAW" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="labelCanvas" Hidden="true" />
+      <Field Name="labelCanvasColour" Hidden="true" />
+      <Field Name="labelPen" Hidden="true" />
+      <Field Name="labelPenColour" Hidden="true" />
+      <Field Name="labelShapeOptions" Hidden="true" />
+      <Field Name="MOVE" Hidden="true" />
+      <Field Name="numericAngle" Hidden="true" />
+      <Field Name="numericScale" Hidden="true" />
+      <Field Name="numericTranslateX" Hidden="true" />
+      <Field Name="numericTranslateY" Hidden="true" />
+      <Field Name="SCALE" Hidden="true" />
+      <Field Name="SELECT" Hidden="true" />
+      <Field Name="shapeOptions" Hidden="true" />
+      <Field Name="toolbar" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>iRmIHIwp4WpQpkAABCKEIBFCKAQkAqBApQghVQgSZIg=</HashCode>
+      <FileName>GrafPack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GrafPack.Shape">
+    <Position X="7" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAIAAAgAEgQIAAAAAECASAAAAAQAEAQAAEAA=</HashCode>
+      <FileName>Shape.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GrafPack.Square">
+    <Position X="5" Y="5.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgKAAAgBEAAAAAAAAAAAABIAAAAAAAEAAAAA=</HashCode>
+      <FileName>Square.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GrafPack.Triangle">
+    <Position X="7" Y="5.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgKAAAgBEAAAAAAAAAAAABIAAAAAAAEAAAAA=</HashCode>
+      <FileName>Triangle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GrafPack.Circle">
+    <Position X="9" Y="5.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACIAAAgAEAAAAAAAAAAAAAAAAAAEEAQAAEAA=</HashCode>
+      <FileName>Circle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
